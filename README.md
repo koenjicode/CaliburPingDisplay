@@ -18,7 +18,7 @@ This plugin adds Ping Information above the Game's Connection Bar for a more acc
 1. Extract Unreal Mod Loader in a designated folder.
 2. Add the SoulCaliburVI.profile included in CaliburPingDisplay into your Unreal Mod Loader PROFILES folder.
 3. Place the LogicMods FOLDER into your games PAKS directory. 
-4. Make sure the Mod Loader is open or the AutoLoader has been setup. (Read ReadMe in UML)
+4. Make sure the Mod Loader is open or the AutoLoader has been setup. (Read ReadMe in UML for using AutoLoader)
 
 ### Extra Notes
 To adjust the plugin's settings press F1, open LogicMods, open the PingDisplayer, open ModButtons and press "Open Settings".
