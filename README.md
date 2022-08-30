@@ -8,7 +8,7 @@ This tool was built with Unreal Mod Loader so make sure you have Unreal Mod Load
 ## Overview
 Calibur Ping Display adds Ping Information above the Game's Connection Bar for a more accurate measure of game lag.
 
-![](Images/Image01.png)
+![](Images/Image01.jpg)
 
 ## Features
 - Average RTT/Ping Value Displayed
